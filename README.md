@@ -1,2 +1,2 @@
 # HelloWeb
-a minimum spring mvn demo
+a minimum spring-mvc demo
